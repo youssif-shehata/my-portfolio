@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Eat-n-Spli Project",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "This is a project made to split money among friends.",
+    "skills": ["React", "Css"],
+    "source": "https://06-eat-n-split-snowy.vercel.app/"
+  },
+  {
+    "title": "Travel-List Project",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "This is a project made to gather the items needed for travel.",
+    "skills": ["React", "Css"],
+    "source": "https://05-travel-list-one.vercel.app/"
+  },
+  {
+    "title": "Pizza-Menu",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "This is a project made to order Pizza from the menu.",
+    "skills": ["React", "Css"],
+    "source": "https://03-pizza-menu-red.vercel.app/"
+  },
+  {
+    "title": "use-popcorn",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "This is a project made to search for your favourit movie and make a list of them.",
+    "skills": ["React", "Css"],
+    "source": "https://07-usepopcorn-imhussein-mohamed-husseins-projects-4cc53341.vercel.app/"
+  },
+  {
+    "title": "Mapty Project",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "This is a project made as a simulation for Google map.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "source": "https://mapty-ruddy-ten.vercel.app/ "
+  },
+  {
+    "title": "Bankist Project",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "This is a project made as a simulation for Bank website.",
+    "skills": ["React", "HTML", "CSS"],
+    "source": "https://bankist-web-eight.vercel.app/"
+  }
+]
